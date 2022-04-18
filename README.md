@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=HEO%20SUYEONG&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=HEO%20SUYEONG&fontSize=50" />
 
 
 <!--
@@ -49,12 +49,13 @@ Here are some ideas to get you started:
   <div align="left">
     - <i>MR 협업 시스템 시선 시각화 연구</i> <br/><br/>
   </div>
-  <img src="https://user-images.githubusercontent.com/65766022/163758138-578ee061-5146-48fa-b155-00ec496c8e99.png">
+  <img src="https://user-images.githubusercontent.com/65766022/163758138-578ee061-5146-48fa-b155-00ec496c8e99.png"> <br/>
   <img src="https://user-images.githubusercontent.com/65766022/163758045-e1c33e66-0b37-4a77-9ca4-e1e777586d7c.png">
   <br/><br/>
   
   <div align="left">
-  - [전남대학교 학사정보 챗봇 서비스, 매화봇] (https://github.com/jeonggyeong/JNU_AI_CHATBOT)
+    - <i>전남대학교 학사정보 챗봇 서비스, 매화봇</i>
+    👉 https://github.com/jeonggyeong/JNU_AI_CHATBOT
   </div>
   <br/><br/>
   
