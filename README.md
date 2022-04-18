@@ -44,16 +44,27 @@ Here are some ideas to get you started:
   
 🔭Projects <br/><br/>
   
-  ul li::marker {
-  color: black;
-  font-size: 1.5em;
-}
+
   <div align="left">
-  MR 협업 시스템 시선 시각화 연구 <br/>
+  - MR 협업 시스템 시선 시각화 연구 <br/>
       </div>
   <img src="https://user-images.githubusercontent.com/65766022/163758138-578ee061-5146-48fa-b155-00ec496c8e99.png">
   <img src="https://user-images.githubusercontent.com/65766022/163758045-e1c33e66-0b37-4a77-9ca4-e1e777586d7c.png">
-
+  <br/>
+  <div align="left">
   전남대학교 학사정보 챗봇 서비스 - 매화봇 <br/>
+          </div>
+      <img src="https://user-images.githubusercontent.com/65766022/163759355-f4a332b3-894b-4cba-b94d-a4db65057d34.mp4">
+      <img src="https://user-images.githubusercontent.com/65766022/163759371-9749c3e0-b9bc-41a9-bc52-5b20329802c8.mp4">
+      <img src="https://user-images.githubusercontent.com/65766022/163759386-4ea1ec9f-1040-40c3-8260-3de2eacd7ef3.mp4">
+
+  <br/>
+    <div align="left">
   디지털 소외계층을 위한 무인 단말기 화면 디자인 <br/>
+                </div>
+    <img src="https://user-images.githubusercontent.com/65766022/163759263-9dbb47e8-4aff-46ae-9efe-b87df6133f8b.mp4">
+
+
+
+
   </div>
