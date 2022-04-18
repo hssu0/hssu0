@@ -44,8 +44,9 @@ Here are some ideas to get you started:
   
 🔭Projects <br/>
   MR 협업 시스템 시선 시각화 연구 <br/>
-  <img src="![그림2](https://user-images.githubusercontent.com/65766022/163758045-e1c33e66-0b37-4a77-9ca4-e1e777586d7c.png)
-">
+  <img src="https://user-images.githubusercontent.com/65766022/163758138-578ee061-5146-48fa-b155-00ec496c8e99.png">
+  <img src="https://user-images.githubusercontent.com/65766022/163758045-e1c33e66-0b37-4a77-9ca4-e1e777586d7c.png">
+
   전남대학교 학사정보 챗봇 서비스 - 매화봇 <br/>
   디지털 소외계층을 위한 무인 단말기 화면 디자인 <br/>
   </div>
