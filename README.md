@@ -40,10 +40,17 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
   
-  <br/>
+  <br/><br/>
   
-🔭Projects <br/>
+🔭Projects <br/><br/>
+  
+  ul li::marker {
+  color: black;
+  font-size: 1.5em;
+}
+  <div align="left">
   MR 협업 시스템 시선 시각화 연구 <br/>
+      </div>
   <img src="https://user-images.githubusercontent.com/65766022/163758138-578ee061-5146-48fa-b155-00ec496c8e99.png">
   <img src="https://user-images.githubusercontent.com/65766022/163758045-e1c33e66-0b37-4a77-9ca4-e1e777586d7c.png">
 
