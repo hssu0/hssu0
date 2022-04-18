@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HEO%20SUYEONG&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=HEO%20SUYEONG&fontSize=50" />
 
 
 <!--
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
   <br/><br/>
   
   <div align="left">
-  - [전남대학교 학사정보 챗봇 서비스, 매화봇](https://github.com/jeonggyeong/JNU_AI_CHATBOT.git)
+  - [전남대학교 학사정보 챗봇 서비스 매화봇](https://github.com/jeonggyeong/JNU_AI_CHATBOT.git)
   </div>
   <br/><br/>
   
