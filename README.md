@@ -54,7 +54,7 @@ Here are some ideas to get you started:
   <br/><br/>
   
   <div align="left">
-  - <i>[전남대학교 학사정보 챗봇 서비스 - 매화봇](https://github.com/jeonggyeong/JNU_AI_CHATBOT)</i> <br/><br/>
+  [전남대학교 학사정보 챗봇 서비스 - 매화봇](https://github.com/jeonggyeong/JNU_AI_CHATBOT)
   </div>
   <br/><br/>
   
